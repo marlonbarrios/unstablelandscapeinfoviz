@@ -31,7 +31,7 @@ let offsets = [
 
 
 let concepts = [
-  "dance improvisation", "embodied dognition", "creative coding",
+  "dance improvisation", "embodied cognition", "creative coding",
   "embodied interaction", "machine learning", "real-time",
   "software engineering", "complexity | systems theory", "open source",
   "post-humanism", "speculative futures", "generative AI", 
