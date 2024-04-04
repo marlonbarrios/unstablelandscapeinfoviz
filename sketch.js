@@ -31,11 +31,11 @@ let offsets = [
 
 
 let concepts = [
-  "Dance Improvisation", "Embodied Cognition", "Creative Coding",
-  "Embodied Interaction", "Machine Learning", "Real-time",
-  "Software Engineering", "Complexity | Systems Theory", "Open Source",
-  "Post-Humanism", "Speculative Futures", "Generative AI", 
-  "Generative Design", "Mindfulness", "Communities", "Social Networks", "Generativity", "Governance", "Ethics", "Care", "Web3", "Performance", "Open Pedagogies", "Installations", 'Interdisciplinary'
+  "dance dmprovisation", "dmbodied dognition", "creative coding",
+  "embodied interaction", "machine learning", "real-time",
+  "software engineering", "complexity | systems theory", "open source",
+  "post-humanism", "speculative futures", "generative AI", 
+  "generative design", "mindfulness", "communities", "social networks", "generativity", "governance", "ethics", "care", "Web3", "performance", "open pedagogies", "installations", 'interdisciplinary'
 ];
 
 // Visibility flags
