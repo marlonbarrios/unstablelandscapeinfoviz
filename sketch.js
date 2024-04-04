@@ -101,11 +101,11 @@ function drawConceptsAndLines() {
 
   if (showLines) {
     stroke(255); // Line color
-    strokeWeight(5); // Line width
+    strokeWeight(3); // Line width
     positions.forEach((pos, i) => {
       for (let j = i + 1; j < positions.length; j++) {
         let d = dist(pos.x, pos.y, positions[j].x, positions[j].y);
-        if (d < 250) { // Draw line if ellipses are close enough
+        if (d < 200) { // Draw line if ellipses are close enough
           line(pos.x, pos.y, positions[j].x, positions[j].y);
         }
       }
