@@ -1,5 +1,4 @@
-# Unstable Landscape Information Visualization
-
+# Unstable Landscape: the dynamic aesthetics of change
 ## Overview![Screenshot 2024-04-05 at 7 43 06 PM](https://github.com/marlonbarrios/unstablelandscapeinfoviz/assets/90220317/80fbfc07-760f-4874-b005-ed1f2cdc5f69)
 
 
