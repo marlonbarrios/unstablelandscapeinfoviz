@@ -7,7 +7,7 @@
 
 ## Live Demo
 
-Access the live visualization [here](https://github.com/marlonbarrios/unstablelandscapeinfoviz/blob/mondrian/sketch.js).
+Access the live visualization [here](https://marlonbarrios.github.io/unstablelandscapeinfoviz/).
 
 ## Features
 
